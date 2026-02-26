@@ -1,0 +1,11 @@
+  "name": "sputnik-launch-api",
+  "version": "1.0.0",
+  "description": "Demo API for security scanning",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "jsonwebtoken": "8.5.1"
+  }
+} 
+package.json
